@@ -12,11 +12,11 @@
 ---
 
 ##  Features
-- 🛡 **Real-Time Threat Detection** — Catch cyber threats instantly.
+-  **Real-Time Threat Detection** — Catch cyber threats instantly.
 -  **AI-Driven Defense** — Adaptive models that evolve with new dangers.
-- ⚔ **Proactive Countermeasures** — Act before attackers breach.
+-  **Proactive Countermeasures** — Act before attackers breach.
 -  **Deep Analytics** — Complete visibility across your security landscape.
-- ☁ **Cloud Ready** — Scalable protection for any organization size.
+-  **Cloud Ready** — Scalable protection for any organization size.
 
 ---
 
@@ -25,8 +25,8 @@
 |------------------------|-----------------------------------|
 |  Artificial Intelligence | Smart threat analysis & prediction |
 |  Machine Learning     | Dynamic behavior modeling        |
-| 🕵 Behavioral Analytics  | User & Entity activity tracking  |
-| ☁ Cloud Infrastructure  | Fast, secure, global coverage    |
+|  Behavioral Analytics  | User & Entity activity tracking  |
+|  Cloud Infrastructure  | Fast, secure, global coverage    |
 
 ---
 
